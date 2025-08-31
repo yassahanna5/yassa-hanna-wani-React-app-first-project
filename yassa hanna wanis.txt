@@ -1,5 +1,8 @@
 lab1:
 Gethub:
 https://github.com/yassahanna5/yassa-hanna-wani-React-app-first-project/tree/main
-live:
-https://my-projects-hncz-git-main-ziad-hussiens-projects.vercel.app
+live on netlify:
+https://68b446a17223a6742729e797--reactprojectyassa.netlify.app/
+live on vercel:
+https://yassa-hanna-wani-react-app-first-pr-sigma.vercel.app/
+
