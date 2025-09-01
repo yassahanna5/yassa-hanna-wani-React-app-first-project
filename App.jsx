@@ -3,7 +3,11 @@ import { useState } from 'react'
 import Home from './Home.jsx'
 import About from './About.jsx'
 import Contact from './Contact.jsx'
+import Product from "./Product";
 
+
+   
+ 
 function App() {
   let [count, setCount] = useState(0)
 
@@ -21,10 +25,11 @@ function App() {
         <button onClick={() => setCount((count) => count -1)}>
           count decrement {count}
         </button>
-        
+         <Product />
         <Home />
         <About />
         <Contact />
+        
       </div>
     
   )
